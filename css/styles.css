@@ -1,0 +1,37 @@
+/* ---------------------------Intro ----------------------*/
+body{
+    background-color: #EAF6F6;
+}
+.intro{
+    
+}
+.info{
+    padding-right:40%
+}
+.photo{
+    width: 150px;
+    height: 180px;
+    float:left;
+    margin:30px;
+    border-radius: 100%;
+}
+.name{
+    color: #66BFBF;
+}
+/* --------------------skills----------- */
+h3{
+    color:#66BFBF
+}
+hr{
+    width:4%;
+    border: dotted gray 6px;
+    border-bottom: none;
+    
+}
+/* -------------------------know more ---------------*/
+
+.pages{
+    font-weight: 700;
+    font-size: 18.72px;
+    margin-top: 5px;
+}
